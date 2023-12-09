@@ -1,6 +1,6 @@
 # Strategic Insights from the Frontline: Dissecting Elite CSGO Play from 2019-2020
 
-<a href='https://youtu.be/HW1LF6SbNac'>Presentation Video</a>
+<a href='https://youtu.be/1awI3X7L748'>Presentation Video</a>
 
 ## 1. Context Description
 **Counter-Strike: Global Offensive (CSGO)** is a round-based tactical shooter where two teams, the Counter-Terrorists (CT) and Terrorists (T), compete against each other. The game's dynamics are shaped by strategy, teamwork, in-game equipment, and environmental factors.
